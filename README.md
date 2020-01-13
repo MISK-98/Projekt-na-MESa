@@ -1,3 +1,3 @@
 # Projekt-na-MESa
 Jazda wariaty
-To jest jakis plik dla tesu czy wszystko jest git
+To jest jakis plik dla testu czy wszystko jest git
